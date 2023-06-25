@@ -1,6 +1,11 @@
 {
   "name": "reactapp",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Velorian-TDV/reactApp"
+  },
+  "homepage": "https://velorian-tdv.github.io/reactApp/",
   "description": "This is my first react application",
   "main": "index.js",
   "scripts": {
